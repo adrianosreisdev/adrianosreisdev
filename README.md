@@ -20,5 +20,4 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/developerbrunosantana/)  
-
+[![Linkedin Badge](https://www.linkedin.com/in/adriano-reis-786017151/)
