@@ -20,4 +20,4 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://www.linkedin.com/in/adriano-reis-786017151/)
+(https://www.linkedin.com/in/adriano-reis-786017151/)
